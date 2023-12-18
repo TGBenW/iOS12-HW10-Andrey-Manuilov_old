@@ -13,6 +13,8 @@
 		B627EF7B2B30C6B40030E514 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B627EF792B30C6B40030E514 /* Main.storyboard */; };
 		B627EF7D2B30C6B50030E514 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B627EF7C2B30C6B50030E514 /* Assets.xcassets */; };
 		B627EF802B30C6B50030E514 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B627EF7E2B30C6B50030E514 /* LaunchScreen.storyboard */; };
+		B627EF882B30C75D0030E514 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B627EF872B30C75D0030E514 /* .gitignore */; };
+		B627EF8A2B30C87F0030E514 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B627EF892B30C87F0030E514 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B627EF7C2B30C6B50030E514 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B627EF7F2B30C6B50030E514 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B627EF812B30C6B50030E514 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B627EF872B30C75D0030E514 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		B627EF892B30C87F0030E514 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 		B627EF672B30C6B40030E514 = {
 			isa = PBXGroup;
 			children = (
+				B627EF892B30C87F0030E514 /* README.md */,
+				B627EF872B30C75D0030E514 /* .gitignore */,
 				B627EF722B30C6B40030E514 /* iOS12-HW10-Andrey-Manuilov */,
 				B627EF712B30C6B40030E514 /* Products */,
 			);
@@ -125,7 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B627EF882B30C75D0030E514 /* .gitignore in Resources */,
 				B627EF802B30C6B50030E514 /* LaunchScreen.storyboard in Resources */,
+				B627EF8A2B30C87F0030E514 /* README.md in Resources */,
 				B627EF7D2B30C6B50030E514 /* Assets.xcassets in Resources */,
 				B627EF7B2B30C6B40030E514 /* Main.storyboard in Resources */,
 			);
